@@ -34,5 +34,7 @@ Report in Greek
 Find us on LinkedIn:
 
 [Emmanouela Dimitriadou Panidou](https://www.linkedin.com/in/emmanouela-dimitriadou-panidou-64296123b/)
-[Maria Melitou] (https://www.linkedin.com/in/maria-melitou-66285823a/)
-[Vasiliki Makrylaki] (https://www.linkedin.com/in/vasiliki-makrylaki/)
+
+[Maria Melitou](https://www.linkedin.com/in/maria-melitou-66285823a/)
+
+[Vasiliki Makrylaki](https://www.linkedin.com/in/vasiliki-makrylaki/)
