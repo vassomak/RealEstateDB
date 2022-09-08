@@ -9,3 +9,6 @@ This file contains the database model in MySQL Workbench format
 ## db-realestate15dump.sql
 SQL script that creates the database model (tables, triggers, views).
 
+## users.sql
+SQL script that creates the users of the database and their rights.
+
